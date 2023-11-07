@@ -7,6 +7,8 @@
 
 This package allows switching locale easily on Laravel projects. It's so simple to use, once it's installed, your App locale will change only by passing routes into SetLanguage middleware.
 
+Gelo fork
+
 **Top features:**
 
 - Change automatically app locale depending on user browser configuration

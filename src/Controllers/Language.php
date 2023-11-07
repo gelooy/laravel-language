@@ -26,6 +26,8 @@ class Language extends Controller
         } else {
             $request->session()->put('locale', $locale);
         }
+
+        app()->setLocale($locale);
     }
 
     /**
